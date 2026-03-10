@@ -12,7 +12,7 @@ To create cohesive experience between game a and a tool.
 
 ## What have I learned:
 - Expanded my react, js, css knowledge
-- How to create cohesive experience between game a and a tool
+- How to create cohesive experience between a game and a tool
 
 ## What I used:
 - [vite](https://vitejs.dev/ "vite website")
